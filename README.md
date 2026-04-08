@@ -1,6 +1,6 @@
 # Iron Man Fitness Studio - Gym Management & Analytics Platform
 
-A full-stack gym management system with member registration, subscription handling, attendance tracking with LeetCode-style heatmaps, and owner dashboard analytics.
+A full-stack gym system with member registration, subscription handling, attendance tracking with LeetCode-style heatmaps, and owner dashboard analytics.
 
 ## 🎯 Project Overview
 
